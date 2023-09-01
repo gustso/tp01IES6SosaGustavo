@@ -5,8 +5,8 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String apellido = "Sosa";
-		String nombre = "Gustavo";
+		String apellido = "Miranda";
+		String nombre = "Ariel";
 		
 		//objeto
 		Usuario usuario = new Usuario();
